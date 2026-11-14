@@ -4,7 +4,7 @@ A full-stack, enterprise-grade web application built to fulfill all DevOps and S
 
 ---
 
-## Project Requirements Checklist just test é
+## Project Requirements Checklist just test éaa
 
 | Lot / Requirement | Implementation Details | Status |
 | :--- | :--- | :---: |
